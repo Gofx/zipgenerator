@@ -1,0 +1,11 @@
+
+
+Nota: Necesario ter esta versión do JDK, nesta carpeta > C:\Program Files\Java\jdk1.8.0_65, ver generar_jar.bat para máis información.
+
+--Lanzar a aplicación con scripts--
+Para Linux: 	Executar o .sh que existe na carpeta raíz --> [Terminal] > bash lanzarZipGenerator.sh
+Para Windows: 	Executar o .bat que existe na carpeta raiz --> [CMD] > run_project.bat
+
+--Lanzar a aplicación desde Eclipse--
+Desde Eclipse: 	Lanzar o proxecto como unha aplicación java desde eclipse, e generará unha carpeta cos estudios existentes na excel.
+
